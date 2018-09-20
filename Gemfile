@@ -18,6 +18,7 @@ group :testing do
   gem 'foodcritic'
   gem 'rake'
   gem 'rubocop'
+  gem 'chef-sugar'
 end
 
 group :travis_integration do
