@@ -4,5 +4,6 @@ metadata
 
 cookbook "ulimit", ">= 0.1.2"
 cookbook "build-essential","= 3.2.0"
+depends "windows", "= 2.0.0"
 cookbook "yum-epel"
 cookbook "yum-remi"
